@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginUsuarios</string>
+    <string name="boton_entrar">Entrar</string>
+    <string name="field_nombre">Nombre</string>
+    <string name="mensaje_entrar">Adelante, puedes pasar</string>
+    <string name="mensaje_error">Error. Uno de los datos no está bien insertado</string>
+</resources>
